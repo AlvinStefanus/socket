@@ -1,3 +1,11 @@
+This project is based on Ionic and Capacitor.
+
+using `socket.io-client` 4.5.1
+
+This code will try to connect to `socket.io` server (ver: 4.5.1) with dummy account.
+
+---------
+
 To run this project:
 
 - npm i
