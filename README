@@ -4,6 +4,8 @@ using `socket.io-client` 4.5.1
 
 This code will try to connect to `socket.io` server (ver: 4.5.1) with dummy account.
 
+The connection works on Android devices but not on iOS devices.
+
 ---------
 
 To run this project:
