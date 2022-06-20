@@ -1,0 +1,6 @@
+To run this project:
+
+- npm i
+- npm run sync
+- npm run android
+- npm run ios
