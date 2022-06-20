@@ -1,0 +1,7 @@
+{
+  "name": "Socket",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
